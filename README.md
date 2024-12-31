@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate explorer of AI technologies, deeply commi
 
 ### AI Safety Training Advocate
 
-Safety first! I'm dedicated to promoting responsible AI practices. Whether it's training models to resist prompt injections or designing systems that prioritize ethical guidelines, AI safety is my top priority. \*\*Check out my \*\***[AI Safety Training and Prompt Injection repository](#)** (placeholder) to dive into this important work.
+Safety first! I'm dedicated to promoting responsible AI practices. Whether it's training models to resist prompt injections or designing systems that prioritize ethical guidelines, AI safety is my top priority. **Check out my** **[AI Safety Training and Prompt Injection repository](#)** to dive into this important work.
 
 ### Building Practical AI Solutions
 
