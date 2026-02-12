@@ -1,33 +1,59 @@
-# Hey there, I'm Nathan! 👋
+# Hi, I’m Nathan Wang
 
-Welcome to my GitHub! While being a student may be my "day job," I am an engineer at heart who just loves building AI tools and products. Hopefully some of these projects below will excite you about the futuristic capabilities of AI. 
+I’m a builder focused on agentic AI systems and production-oriented AI products.  
+I care most about shipping useful tools with strong architecture, clear UX, and real-world impact.
 
-### Building Cutting-Edge AI Solutions
+## Featured Work
 
-I love applying AI to solve practical challenges. Some of my projects I’m super proud of include:
+### 1) Claw Marketplace (Private)
+**AI-agent-first e-commerce platform** where autonomous agents can run stores end-to-end.
 
-1. **[Accelerating Aslyum GenAI Demo](https://border-demo-70326.web.app/)**: A demo website that showcases how Gen AI could be used in the US immagration/asylum system. This includes RAG demos, LLM summaries, custom priority metrics and many more. The website uses data from 71 simulated asylum cases that were uniquely generated with Gemini 2.0. This was the winnning project for the "Gen AI for the Common Good Challenge" hosted by UVA McIntire and was presented to professors, WillowTree, Google, and ex-OpenAI execs. Learn more about it [here](https://experience.mcintire.virginia.edu/news/generative-ai-common-good-competition-concept-competition-brings-student-innovation-to-mcintire/).
+- Built API-first store operations for agent registration, product lifecycle, checkout, and analytics
+- Integrated Stripe Connect for onboarding and payments, plus Printful for print-on-demand fulfillment
+- Implemented webhook-driven order/payout/review flows and production deployment on Google Cloud/Firebase
+- Designed the platform for both autonomous agents and human buyers
 
-2. **[Model Context Protocol (MCP) Hosting Platform](https://mcp-platform-95301.web.app/)**: This is a website that allows users to connect to cloud-hosted MCP servers and supercharge their AI assistants with powerful tools. No local setup required - just plug and play with Claude for Desktop, Cursor AI, and other MCP clients (Note: this is still a work in progess). 
+### 2) Tempo Sec (Private)
+**Autonomous cybersecurity agent** for vulnerability discovery and analysis.
 
-### Some Fun ML Projects
+- Designed an agent system with deliberate workflow phases and structured context management
+- Built modular tool orchestration for recon/testing and sandboxed execution
+- Focused on architecture quality, observability, and maintainability for long-running agent behavior
 
-1.  **[Squirrel Spotter](https://github.com/nwang783/sq-cnn)**: A PyTorch-based Convolutional Neural Network (CNN) that can detect squirrels in images. This was a fun project that was an attempt to help my dad find a way to stop squirrels from eating the peaches in his garden. 
+### 3) LLM-RE (Private)
+**Agentic reverse-engineering system** for binary analysis.
 
-2. **[UVA Schedule Genie](https://github.com/nwang783/ai-advisor)**: Using a CSP algorithm, this tool automates personalized scheduling -- while taking into account prof. ratings -- for University of Virginia students. Many UVA students (myself included) have used it to build optimal schedules. Check it out at this [link](https://border-demo-70326.web.app/)!
+- Built LLM-powered workflows that generate and execute structured reverse-engineering plans
+- Integrated Ghidra via MCP and sandboxed exploit testing flows
+- Produced structured findings and reproducible outputs for analysis runs
 
-## 🔧 Skills & Tools
+### 4) AI Tutor (Private)
+**Real-time voice tutoring platform** (Next.js + FastAPI/Pipecat).
 
-- **Languages:** Python, JavaScript, and a sprinkle of C for good measure.
-- **Frameworks:** PyTorch, firebase , React, OpenAI.
-- **AI Techniques:** Transformers, RAG, CNNs, Agentic AI.
-- **Platforms:** Firebase, AWS, and GitHub for seamless collaboration.
+- Integrated Daily WebRTC, Deepgram STT, OpenAI LLMs, and Google TTS
+- Added session continuity, PDF-informed tutoring, and interactive learning tools
+- Improved reliability and UX for live conversational learning sessions
 
-## 🚀 Let's Connect
+### 5) Accelerating Asylum GenAI Demo
+[Live Demo](https://border-demo-70326.web.app/)  
+Award-winning GenAI concept for U.S. asylum/immigration workflows.
 
-- ✉️ Email: [hmg2vg@virginia.edu](mailto\:hmg2vg@virginia.edu)
-- 🔗 LinkedIn: [https://www.linkedin.com/in/nathan-wang-999930336/](https://www.linkedin.com/in/nathan-wang-999930336/)
+- Built demos for RAG-based case support, summarization, and custom prioritization metrics
+- Created and used a synthetic dataset of 71 generated asylum cases for the prototype
+- Winner of UVA McIntire’s **Gen AI for the Common Good Challenge**
+- Coverage: [Competition Article](https://experience.mcintire.virginia.edu/news/generative-ai-common-good-competition-concept-competition-brings-student-innovation-to-mcintire/)
 
-- ✨ Fun Fact: When I’m not (vibe) coding, you might find me exploring the great outdoors, at the gym, or brainstorming life's big questions. 
+## Skills
 
-Got questions or ideas? I’d love to collaborate! Let’s build something amazing together.
+- **Languages:** Python, TypeScript/JavaScript, C
+- **Frameworks & Platforms:** React, FastAPI, Firebase, AWS, Google Cloud
+- **AI Systems:** Agentic workflows, RAG pipelines, real-time voice agents, model/tool orchestration
+- **Infra Integrations:** Stripe, webhooks, API design, production deployment
+
+## Connect
+
+- **Email:** [hmg2vg@virginia.edu](mailto:hmg2vg@virginia.edu)
+- **LinkedIn:** [Nathan Wang](https://www.linkedin.com/in/nathan-wang-999930336/)
+- **Twitter/X:** [Nathan Wang on X](https://x.com/NathanWang78302)
+
+If you’re building in agentic AI, applied ML, or AI product infrastructure, I’d love to connect.
