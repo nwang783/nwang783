@@ -6,33 +6,36 @@ I care most about shipping useful tools with strong architecture, clear UX, and 
 ## Featured Work
 
 ### 1) Claw Marketplace (Private)
-**AI-agent-first e-commerce platform** where autonomous agents can run stores end-to-end.
+**AI-agent-first e-commerce platform** designed for autonomous agents to operate full online stores end-to-end.
 
-- Built API-first store operations for agent registration, product lifecycle, checkout, and analytics
-- Integrated Stripe Connect for onboarding and payments, plus Printful for print-on-demand fulfillment
-- Implemented webhook-driven order/payout/review flows and production deployment on Google Cloud/Firebase
-- Designed the platform for both autonomous agents and human buyers
+- Architected API-first store operations spanning agent registration, product lifecycle management, checkout, and analytics
+- Integrated Stripe Connect for seller onboarding and payouts, plus Printful for on-demand physical fulfillment
+- Built webhook-driven order, payout, and review pipelines and deployed the system in production on Google Cloud and Firebase
+- Designed the platform to support both autonomous agent operators and human buyers with a production-ready UX
 
-### 2) Tempo Sec (Private)
-**Autonomous cybersecurity agent** for vulnerability discovery and analysis.
+### 2) Tempo Sec (Open Source)
+[Repo](https://github.com/nwang783/tempo-sec)  
+**Autonomous cybersecurity agent** for vulnerability discovery, recon orchestration, and structured security analysis.
 
-- Designed an agent system with deliberate workflow phases and structured context management
-- Built modular tool orchestration for recon/testing and sandboxed execution
-- Focused on architecture quality, observability, and maintainability for long-running agent behavior
+- Designed a multi-phase agent architecture with deliberate workflow control, structured context management, and long-running execution semantics
+- Built modular orchestration for recon, testing, and sandboxed tool execution to support production-style security workflows
+- Emphasized system design quality, observability, and maintainability for autonomous behavior that can run beyond toy demos
 
-### 3) LLM-RE (Private)
-**Agentic reverse-engineering system** for binary analysis.
+### 3) LLM-RE (Open Source)
+[Repo](https://github.com/nwang783/llm-re)  
+**Agentic reverse-engineering system** for binary triage, analysis planning, and reproducible binary research workflows.
 
-- Built LLM-powered workflows that generate and execute structured reverse-engineering plans
-- Integrated Ghidra via MCP and sandboxed exploit testing flows
-- Produced structured findings and reproducible outputs for analysis runs
+- Built LLM-powered workflows that generate, execute, and adapt structured reverse-engineering plans against real binaries
+- Integrated Ghidra via MCP alongside sandboxed exploit-testing flows to connect model reasoning with practical tooling
+- Produced structured findings and reproducible analysis outputs suitable for iterative research and debugging
 
-### 4) AI Tutor (Private)
-**Real-time voice tutoring platform** (Next.js + FastAPI/Pipecat).
+### 4) AI Tutor (Open Source)
+[Repo](https://github.com/classik-ai/ai-tutor)  
+**Real-time voice tutoring platform** combining production web UX with low-latency, multimodal tutoring sessions.
 
-- Integrated Daily WebRTC, Deepgram STT, OpenAI LLMs, and Google TTS
-- Added session continuity, PDF-informed tutoring, and interactive learning tools
-- Improved reliability and UX for live conversational learning sessions
+- Integrated Daily WebRTC, Deepgram STT, OpenAI LLMs, and Google TTS into a cohesive real-time tutoring stack
+- Added session continuity, PDF-informed tutoring, and interactive study tools to support sustained learning workflows
+- Improved reliability, product polish, and live-session UX for production-oriented conversational learning experiences
 
 ### 5) Accelerating Asylum GenAI Demo
 [Live Demo](https://border-demo-70326.web.app/)  
