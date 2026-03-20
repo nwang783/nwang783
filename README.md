@@ -1,7 +1,6 @@
 # Hi, I’m Nathan Wang
 
-I’m a builder focused on agentic AI systems and production-oriented AI products.  
-I care most about shipping useful tools with strong architecture, clear UX, and real-world impact.
+I build a lot. I [write](https://nathanwang.dev/blog) about AI.
 
 ## Featured Work
 
